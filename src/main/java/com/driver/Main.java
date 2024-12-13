@@ -30,4 +30,3 @@ public class Main {
         System.out.println(p.product(10.20,20.65));
     }
     }
-}
